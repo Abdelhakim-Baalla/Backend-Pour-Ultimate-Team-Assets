@@ -1,3 +1,7 @@
+## Accéder au projet
+
+[Exemple de composition d’équipe](https://github.com/Abdelhakim-Baalla/Backend-Pour-Ultimate-Team-Assets/blob/main/src/assets/examples/example_1.png)
+
 
 ### **league de fantasy football (Back-end)**
 
